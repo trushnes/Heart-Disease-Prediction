@@ -1,5 +1,7 @@
 # Heart-Disease-Prediction
 
+In Voting Classifier, I have used 4 machine learning models: SVM, DT, RF and AdaBoost.
+To read about voting classifier, refer: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingClassifier.html
 
 # Dataset: 
 
